@@ -9,6 +9,7 @@ cd quinta-region
 touch lita.xls
 cd ..
 cd ..
+
 mkdir santigo
 cd santiago
 mkdir la-pintana
