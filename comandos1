@@ -6,10 +6,8 @@ mkdir clientes
 cd clientes
 mkdir quinta-region
 cd quinta-region
-touch lita.xls
+touch lista.xls
 cd ..
-cd ..
-
 mkdir santigo
 cd santiago
 mkdir la-pintana
